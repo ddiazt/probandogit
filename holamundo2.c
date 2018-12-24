@@ -8,7 +8,7 @@ int main(int argc , char *argv[])
 	/* FIN */
 	printf("ADIOS MUNDO!\n");
 	printf("ADIOS MUNDO2!\n");	
-	printf("---------------");
+	printf("*************");
 	
 	return 0;
 } 
